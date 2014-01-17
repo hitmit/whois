@@ -1,0 +1,54 @@
+
+Warning: include_once(/var/www/html/whois/sites/all/modules/who_is/phpwhois/whois.main.php): failed to open stream: No such file or directory in D:\wamp\www\cipratice\domain_whois.php on line 53
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Warning: include_once(): Failed opening '/var/www/html/whois/sites/all/modules/who_is/phpwhois/whois.main.php' for inclusion (include_path='.;C:\php\pear') in D:\wamp\www\cipratice\domain_whois.php on line 53
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Warning: include_once(/var/www/html/whois/sites/all/modules/who_is/phpwhois/whois.utils.php): failed to open stream: No such file or directory in D:\wamp\www\cipratice\domain_whois.php on line 54
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Warning: include_once(): Failed opening '/var/www/html/whois/sites/all/modules/who_is/phpwhois/whois.utils.php' for inclusion (include_path='.;C:\php\pear') in D:\wamp\www\cipratice\domain_whois.php on line 54
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Warning: include_once(/var/www/html/whois/sites/all/modules/who_is/phpwhois/ipwhois.php): failed to open stream: No such file or directory in D:\wamp\www\cipratice\domain_whois.php on line 55
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Warning: include_once(): Failed opening '/var/www/html/whois/sites/all/modules/who_is/phpwhois/ipwhois.php' for inclusion (include_path='.;C:\php\pear') in D:\wamp\www\cipratice\domain_whois.php on line 55
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Warning: include_once(/var/www/html/whois/sites/all/modules/who_is/phpwhois/iplookup.php): failed to open stream: No such file or directory in D:\wamp\www\cipratice\domain_whois.php on line 56
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Warning: include_once(): Failed opening '/var/www/html/whois/sites/all/modules/who_is/phpwhois/iplookup.php' for inclusion (include_path='.;C:\php\pear') in D:\wamp\www\cipratice\domain_whois.php on line 56
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
+
+Fatal error: Class 'Whois' not found in D:\wamp\www\cipratice\domain_whois.php on line 58
+
+Call Stack:
+    0.0014     533712   1. {main}() D:\wamp\www\cipratice\domain_whois.php:0
+
